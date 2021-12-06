@@ -1,0 +1,19 @@
+{
+    "name": "할일 App (PWA)",
+    "short_name": "할일",
+    "start_url": ".",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "sizes": "192x192",
+        "src": "icon-192x192.png",
+        "type": "image/png"
+      },
+      {
+        "sizes": "512x512",
+        "src": "icon-512x512.png",
+        "type": "image/png"
+      }
+    ],
+  }
